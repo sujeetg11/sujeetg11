@@ -1,3 +1,4 @@
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://sujeetg11.io)
 <h1 align="center">Hi 👋, I'm Sujeet Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://www.techbabble.zone/content/images/size/w1140/2021/07/46207-programmer-1.gif" alt="Coding">
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetg11&show_icons=true&locale=en" alt="sujeetg11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetg11&" alt="sujeetg11" /></p>
+
